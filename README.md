@@ -1,1 +1,3 @@
-# ejemplos_flexbox_grid_RWD
+#ejemplos_flexbox_grid_RWD
+
+![imagen](captura.png)
