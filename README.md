@@ -1,4 +1,4 @@
 #ejemplos_flexbox_grid_RWD
 
-![imagen](captura.png)
+![imagen](x.png)
 ![imagen](pantalla.png)
